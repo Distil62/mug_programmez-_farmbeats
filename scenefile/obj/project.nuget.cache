@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "/Qda6NNJKHNQZc2kk0XPE8s9bQ5tigyswBqGaKgQuWus6hChPsObZmqQllSEKbzGqBY02WIY9R7se22veCLvgw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LouisCharavner\\Documents\\Viseo\\Projets\\FarmBeat\\scenefile\\scenefile.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LouisCharavner\\.nuget\\packages\\azure.core\\1.2.2\\azure.core.1.2.2.nupkg.sha512",
+    "C:\\Users\\LouisCharavner\\.nuget\\packages\\azure.storage.blobs\\12.4.4\\azure.storage.blobs.12.4.4.nupkg.sha512",
+    "C:\\Users\\LouisCharavner\\.nuget\\packages\\azure.storage.common\\12.4.3\\azure.storage.common.12.4.3.nupkg.sha512",
+    "C:\\Users\\LouisCharavner\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0\\microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
+    "C:\\Users\\LouisCharavner\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
+    "C:\\Users\\LouisCharavner\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.6.0\\system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512",
+    "C:\\Users\\LouisCharavner\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\LouisCharavner\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}
